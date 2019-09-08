@@ -20,7 +20,7 @@ class StartPage extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: '21 Game',
+      title: '21 Cards Game',
       theme: ThemeData(
         primaryColor: Colors.blue,
       ),
